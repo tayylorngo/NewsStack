@@ -1,4 +1,4 @@
-News Stack Web Application
+# News Stack Web Application
 
 A React.js web application designed to gather news articles from a specified category. 
 
