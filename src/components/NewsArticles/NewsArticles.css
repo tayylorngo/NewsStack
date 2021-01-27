@@ -1,0 +1,19 @@
+.Outline {
+    width: 1920px;
+    text-align: center;
+    margin: auto;
+    height: 1080px;
+    /*border: solid 1px black;*/
+}
+
+.FormDiv input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 100%
+}
+
+.ChangeTopicButton {
+    margin-bottom: 10px;
+    height: 100%;
+}
